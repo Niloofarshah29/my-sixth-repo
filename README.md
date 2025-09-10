@@ -1,5 +1,5 @@
 # my-sixth-repo
-testing
+testin
 from PIL import Image
 
 img = Image.open("input.jpg")
