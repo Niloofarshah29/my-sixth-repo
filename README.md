@@ -4,7 +4,7 @@ from PIL import Image
 
 img = Image.open("input.jpg")
 resized = img.resize((400, 400))
-resize.save("output.jpg")
+resized.save("output.jpg")
 
 print("Image resized and saved as output.jpg")
 
