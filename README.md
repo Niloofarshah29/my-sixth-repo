@@ -1,6 +1,6 @@
 # my-sixth-repo
 testing
-from PI import Image
+from PIL import Image
 
 img = Image.open("input.jpg")
 resized = img.resize((400, 400))
